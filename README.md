@@ -9,7 +9,7 @@ git clone https://github.com/luckyboyroman/flowers1.git
 cd flowers1
 ```
 ### Взять файлы с весами обучения flower_classifier.h5 и папку Flowers (изображения) с яндекс диска https://disk.yandex.ru/d/q_4yCsml4W-_jQ
-## Локальная установка
+## Установка зависимостей
 
 ```bash
 pip install -r requirements.txt
